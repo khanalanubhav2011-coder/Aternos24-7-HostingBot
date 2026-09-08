@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sillyy.aternos.me:40172",
+    "ip": "sillyy.aternos.me",
     "port": 40172,
     "version": "",
     "try-creative": false
